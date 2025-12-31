@@ -87,4 +87,4 @@
 &nbsp;&nbsp;
 <img width="36" height="36" alt="Icon 2" src="https://github.com/user-attachments/assets/0fdd39bb-38cf-4666-87a3-6e8ea67394bc" />
 </p>
-<p align="center"><em>Custom icons with chromatic aberration styling. All icons have been redone in chromatic.</em></p>\n
+<p align="center"><em>Custom icons with chromatic aberration styling. All icons have been redone in chromatic.</em></p>
