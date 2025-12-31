@@ -98,3 +98,13 @@
 <img width="429" height="222" alt="Dialog Backgrounds" src="https://github.com/user-attachments/assets/b9e3ac04-3213-45e2-bd0e-db37d8947fad" />
 </p>
 <p align="center"><em>Custom dialog backgrounds.</em></p>
+
+<p align="center">
+<img width="300" height="2" alt="" src="https://github.com/user-attachments/assets/aead79d7-7e30-49ab-96e3-d14f8a8f663e" />
+</p>
+
+<h3 align="center">Keyboards</h3>
+<p align="center">
+<img width="480" height="222" alt="Keyboards" src="https://github.com/user-attachments/assets/25ee5341-b358-4010-b19c-33ec60a8a5eb" />
+</p>
+<p align="center"><em>Customized with base from wargames theme.</em></p>
