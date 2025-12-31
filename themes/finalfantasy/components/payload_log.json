@@ -26,7 +26,6 @@
   "payload_error_indicator": [
     { "image_path": "assets/payloadlog/payload_error_indicator.png", "x": 0, "y": 179 }
   ],
-  "status_bar": "default",
   "refresh_interval": 0.75,
   "visible_lines": 14,
   "text_size": "small",
