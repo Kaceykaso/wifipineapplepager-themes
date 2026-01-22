@@ -25,7 +25,7 @@
         {
           "id": "General",
           "layers": [
-            { "text": "General", "x": 10, "y": 50, "text_color_palette": "blue" },
+            { "text": "General", "x": 10, "y": 50, "text_color_palette": "medium_gray" },
             { "image_path": "assets/down.png", "x": 124, "y": 200, "recolor_palette": "gray"}
           ],
           "selected_layers": [
@@ -54,7 +54,7 @@
         {
           "id": "Display",
           "layers": [
-            { "text": "Display", "x": 10, "y": 85, "text_color_palette": "blue" }
+            { "text": "Display", "x": 10, "y": 85, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "Display", "x": 10, "y": 85, "text_color_palette": "yellow" },
@@ -78,7 +78,7 @@
         {
           "id": "Ringtone",
           "layers": [
-            { "text": "Ringtone", "x": 10, "y": 120, "text_color_palette": "blue" }
+            { "text": "Ringtone", "x": 10, "y": 120, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "Ringtone", "x": 10, "y": 120, "text_color_palette": "yellow" },
@@ -105,7 +105,7 @@
         {
           "id": "Network",
           "layers": [
-            { "text": "Network", "x": 10, "y": 155, "text_color_palette": "blue" }
+            { "text": "Network", "x": 10, "y": 155, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "Network", "x": 10, "y": 155, "text_color_palette": "yellow" },
@@ -132,7 +132,7 @@
         {
           "id": "System",
           "layers": [
-            { "text": "System", "x": 10, "y": 190, "text_color_palette": "blue" }
+            { "text": "System", "x": 10, "y": 190, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "System", "x": 10, "y": 190, "text_color_palette": "yellow" },
@@ -164,7 +164,7 @@
         {
           "id": "Date/Time",
           "layers": [
-            { "text": "Clock", "x": 10, "y": 50, "text_color_palette": "blue" },
+            { "text": "Clock", "x": 10, "y": 50, "text_color_palette": "medium_gray" },
             { "image_path": "assets/up.png", "x": 124, "y": 46, "recolor_palette": "medium_gray"}
           ],
           "selected_layers": [
@@ -201,7 +201,7 @@
         {
           "id": "GPS",
           "layers": [
-            { "text": "GPS", "x": 10, "y": 85, "text_color_palette": "blue" }
+            { "text": "GPS", "x": 10, "y": 85, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
 
@@ -226,7 +226,7 @@
         {
           "id": "Updates",
           "layers": [
-            { "text": "Updates", "x": 10, "y": 120, "text_color_palette": "blue" }
+            { "text": "Updates", "x": 10, "y": 120, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "Updates", "x": 10, "y": 120, "text_color_palette": "yellow" },
@@ -253,7 +253,7 @@
         {
           "id": "Help",
           "layers": [
-            { "text": "Help", "x": 10, "y": 155, "text_color_palette": "blue" }
+            { "text": "Help", "x": 10, "y": 155, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "Help", "x": 10, "y": 155, "text_color_palette": "yellow" },
@@ -280,7 +280,7 @@
         {
           "id": "About",
           "layers": [
-            { "text": "About", "x": 10, "y": 190, "text_color_palette": "blue" }
+            { "text": "About", "x": 10, "y": 190, "text_color_palette": "medium_gray" }
           ],
           "selected_layers": [
             { "text": "About", "x": 10, "y": 190, "text_color_palette": "yellow" },

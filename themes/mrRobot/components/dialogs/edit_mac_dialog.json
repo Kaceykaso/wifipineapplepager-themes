@@ -4,7 +4,7 @@
   "cache_canvases": false,
   "background": {
     "layers": [
-      { "image_path": "assets/edit_string_dialog_bg.png", "x": 6, "y": 17 }
+      { "image_path": "assets/edit_string_dialog_bg.png", "x": 0, "y": 0 }
     ]
   },
   "title_x": 29,
